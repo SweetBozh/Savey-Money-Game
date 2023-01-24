@@ -1,5 +1,6 @@
 # Savey-Money-Game
 Game for practice saving money, my mahidiol 1st year Project
+(There are not much commits because at that time, we did our project and shared via google shared drive.)
 ![image](https://user-images.githubusercontent.com/78196832/214284830-5c40f8a2-3e6d-48aa-9685-23144e1f2642.png)
 ![image](https://user-images.githubusercontent.com/78196832/214284858-97bcc4ce-918b-447c-8076-35bdd6489fda.png)
 ![image](https://user-images.githubusercontent.com/78196832/214284878-a5351b51-6c94-4748-90c2-a87880875a6e.png)
